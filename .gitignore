@@ -1,0 +1,11 @@
+__*
+*.rst
+*.ult
+*.rwd
+*.csv
+*.swf
+*.gz
+*.log
+*.con
+*.pkl
+*.png
